@@ -2,6 +2,8 @@
   THIS ICON PACK REQUIRES jQUERY. IT WILL NOT WORK WITHOUT IT.
 */
 
+tiIcons = ["exclamation"];
+
 window.addEventListener('load', function() {
     if (window.jQuery) {  
         // jQuery is loaded  
